@@ -1,0 +1,32 @@
+.wrapper_block{
+    width:500px;
+    height:500px;
+    border:1px solid black;
+}
+.add_button {
+    width: 100px;
+    height: 20px;
+    color: #fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #80ed99;
+    box-shadow: 0 5px #57cc99;
+    margin-bottom:20px;
+  }
+  .add_button:hover {
+    box-shadow: 0 3px #57cc99;
+    top: 1px;
+  }
+  .add_button:active {
+    box-shadow: 0 0 #57cc99;
+    top: 5px;
+  }
