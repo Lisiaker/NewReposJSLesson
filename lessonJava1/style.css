@@ -1,0 +1,31 @@
+.wrapper{
+    border:1px solid palegoldenrod;
+    width:500px;
+    height:700px;
+    padding:5px;
+}
+.card{
+    display:flex;
+    background-color:grey;
+    height:100px;
+    border-radius:20px;
+    padding:20px;
+}
+.cartd_date{
+    width:200px;
+    height:20px;
+    margin:5px;
+    background-color: aliceblue;
+}
+.cartd_text{
+    width:200px;
+    height:20px;
+    margin:5px;
+    background-color: aliceblue;
+}
+.cartd_title{
+    width:200px;
+    height:20px;
+    margin:5px;
+    background-color: aliceblue;
+}
